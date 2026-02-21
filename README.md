@@ -1,1 +1,3 @@
-# Priz-G-venlik-Sistemi-3D-G-r-nt-leme
+# Priz Guvenlik Sistemi 3D Goruntuleme
+
+Bir html dosyası aracılığıyla 3d görüntüleme.
